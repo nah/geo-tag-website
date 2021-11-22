@@ -1,0 +1,16 @@
+html, body {
+  font-size: 14pt;
+  margin: 0;
+  padding: 0;
+}
+
+#centered {
+  width: 600px;
+  font-family: monospace;
+  font-size: 300%;
+  margin: 0 auto;
+}
+
+.plus-code, .coord {
+  text-align: center;
+}
